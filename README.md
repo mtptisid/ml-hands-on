@@ -17,3 +17,23 @@ ml-hands-on/
 ```
 
 ---
+
+
+## 📌 Project Objectives
+
+- Build regression models to predict housing prices
+- Use Scikit-learn for modeling and preprocessing
+- Apply pipelines for clean, reproducible code
+- Experiment with different datasets and techniques
+
+---
+
+## 📊 Datasets
+
+### 🏘️ `Home_price_list.csv`
+
+Basic dataset with features like:
+- Area
+- Number of bedrooms
+- Price
+
