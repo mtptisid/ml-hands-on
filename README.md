@@ -37,3 +37,32 @@ Basic dataset with features like:
 - Number of bedrooms
 - Price
 
+### 🏡 `Housing.csv`
+
+Found in `new_approach/`, includes:
+- Advanced features
+- More room for experimentation
+
+---
+
+## 🧠 Notebooks Summary
+
+### 📘 `Home_price_prediction.ipynb`
+
+- Loads and explores dataset
+- Trains a simple Linear Regression model
+- Visualizes results
+
+### 📗 `Home_price_pred_Pipeline.ipynb`
+
+- Introduces `Pipeline` and `ColumnTransformer`
+- Handles preprocessing and modeling together
+- More robust and production-friendly
+
+### 📙 `housing_pred_cal_ml.ipynb`
+
+- Uses the dataset in `new_approach/Housing.csv`
+- Adds feature engineering
+- Prepares a better, more scalable solution
+
+---
