@@ -66,3 +66,36 @@ Found in `new_approach/`, includes:
 - Prepares a better, more scalable solution
 
 ---
+
+## 🚀 Getting Started
+
+### 🔧 Clone the Repository
+
+```bash
+git clone https://github.com/mtptisid/ml-hands-on.git
+cd ml-hands-on
+```
+
+### 🧰 Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+> To create a `requirements.txt`:
+> 
+> ```bash
+> pip freeze > requirements.txt
+> ```
+
+### ▶️ Run the Notebooks
+
+Use Jupyter:
+
+```bash
+jupyter notebook
+```
+
+Or open in VS Code / Jupyter Lab.
+
+---
