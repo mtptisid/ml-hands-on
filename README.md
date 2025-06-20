@@ -99,3 +99,43 @@ jupyter notebook
 Or open in VS Code / Jupyter Lab.
 
 ---
+
+## 🛠 Tech Stack
+
+- Python 3.x
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
+---
+
+## 📈 Sample Output
+
+- Model performance metrics: R², MSE
+- Visualizations: price distribution, prediction vs actual
+- Reusable pipelines
+
+---
+
+## 🔮 Future Ideas
+
+- Use `joblib` or `pickle` for saving models
+- Add Streamlit-based UI
+- Test ensemble models (`RandomForest`, `XGBoost`)
+- Hyperparameter tuning with `GridSearchCV`
+
+---
+
+## 🤝 Contribution
+
+Fork the repo, improve notebooks, and submit PRs. All contributions are welcome!
+
+---
+
+## 🙋‍♂️ Author
+
+**Siddharamayya M**  
+📧 msidrm455@gmail.com  
+🌐 [my Website](https://siddharamayya.in)
+🌐 [Portfolio](https://portfolio.siddharamayya.in)  
+📞 +91 9740671620
