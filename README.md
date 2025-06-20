@@ -115,6 +115,12 @@ Or open in VS Code / Jupyter Lab.
 - Visualizations: price distribution, prediction vs actual
 - Reusable pipelines
 
+## 🖼️ Sample Visualization
+
+Below is a preview of the California Housing Prices visualization generated in `housing_pred_cal_ml.ipynb`:
+
+![California Housing Prices Plot](new_approach/images/california_housing_prices_plot.png)
+
 ---
 
 ## 🔮 Future Ideas
